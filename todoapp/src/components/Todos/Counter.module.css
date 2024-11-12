@@ -1,0 +1,12 @@
+.count {
+  margin: 5px 5px 5px 5px;
+  padding: 0px 5px 0px 5px;
+  border-radius: 5px;
+
+  color: #112d49;
+  background-color: #fbfef9;
+  font-size: 1.1rem;
+}
+.count > h1 {
+  margin: 0;
+}
